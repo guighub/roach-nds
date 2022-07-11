@@ -2,7 +2,7 @@
 A spinning cockroach demo for Nintendo DS
 
 Have you ever seen a video [like this](https://youtu.be/FpouoDphV-I) and thought: "Man, this video is so uselessly amazing, I need to take it with me everywhere I go."\
-Maybe not, but back in 2004-2006 you probably didn't have a portable device that you *could* put this video on. So why not have it in real time on the Nintendo DS?\
+Maybe not, but back in 2004-2006 you probably didn't have a portable device that you *could* put this video on. So why not have it in real time on the Nintendo DS?
 
 # Building
 To build, you must have [libnds](https://github.com/devkitPro/libnds) and [Nitro Engine](https://github.com/AntonioND/nitro-engine) installed.\
