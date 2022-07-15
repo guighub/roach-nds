@@ -9,6 +9,9 @@ To build, you must have [libnds](https://github.com/devkitPro/libnds) and [Nitro
 On Windows, run the ``build.bat`` file provided. (Requires Git)\
 To build manually on Windows/Linux run ``make`` in the roach-nds directory.
 
+# Media
+[Showcase (YouTube)](https://youtu.be/j9KvjSMQhNU)
+
 # Credits
 Cockroach model: Five Nights At Freddy's VR: Help Wanted | The Models Resource [(ripped by Nomok)](https://www.models-resource.com/pc_computer/fivenightsatfreddysvrhelpwanted/model/32751/)\
 Song: [Daft Punk - Around The World](https://youtu.be/dwDns8x3Jb4) ℗ 1997 Daft Life\
